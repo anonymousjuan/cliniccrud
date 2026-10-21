@@ -9,7 +9,7 @@
     <div>
         <h2 class="fw-bold mb-1">Patient Records</h2>
         <p class="text-muted mb-0">
-            Manage registered clinic patients.
+            Manage registered clinic patientz.
         </p>
     </div>
 
